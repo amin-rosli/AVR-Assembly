@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328"</DEVICE>
+ <WORKING_DIR>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/Education\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>E:\Education\Atmel Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/Education\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\Debug\AssemblerApplication9.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication9.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication9.map</FILE>
+  <FILE>AssemblerApplication9.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <UIAM><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\main.asm</FILE><LINE>10</LINE></UIAM>
+  <main><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\main.asm</FILE><LINE>19</LINE></main>
+  <pwm0><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\main.asm</FILE><LINE>31</LINE></pwm0>
+  <delay><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\main.asm</FILE><LINE>51</LINE></delay>
+  <pwm1><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\main.asm</FILE><LINE>36</LINE></pwm1>
+  <pwm2><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\main.asm</FILE><LINE>41</LINE></pwm2>
+  <pwm3><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\main.asm</FILE><LINE>46</LINE></pwm3>
+  <l1><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication9\AssemblerApplication9\main.asm</FILE><LINE>56</LINE></l1>
+ </LABELS>
+</ASSEMBLER_INFO>

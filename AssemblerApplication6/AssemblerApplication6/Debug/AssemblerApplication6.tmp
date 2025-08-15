@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328"</DEVICE>
+ <WORKING_DIR>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/Education\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>E:\Education\Atmel Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/Education\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\Debug\AssemblerApplication6.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication6.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication6.map</FILE>
+  <FILE>AssemblerApplication6.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\main.asm</FILE><LINE>11</LINE></start>
+  <count><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\main.asm</FILE><LINE>19</LINE></count>
+  <delay><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\main.asm</FILE><LINE>36</LINE></delay>
+  <tens><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\main.asm</FILE><LINE>28</LINE></tens>
+  <l1><FILE>c:\users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication6\AssemblerApplication6\main.asm</FILE><LINE>41</LINE></l1>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication10\AssemblerApplication10\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/Education\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>E:\Education\Atmel Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication10\AssemblerApplication10\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/Education\Atmel Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication10\AssemblerApplication10\Debug\AssemblerApplication10.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication10.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication10.map</FILE>
+  <FILE>AssemblerApplication10.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication10\AssemblerApplication10\main.asm</FILE><LINE>7</LINE></start>
+  <check><FILE>C:\Users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication10\AssemblerApplication10\main.asm</FILE><LINE>14</LINE></check>
+  <reset><FILE>C:\Users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication10\AssemblerApplication10\main.asm</FILE><LINE>20</LINE></reset>
+  <delay><FILE>C:\Users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication10\AssemblerApplication10\main.asm</FILE><LINE>29</LINE></delay>
+  <l1><FILE>C:\Users\vzkz\Documents\Atmel Studio\7.0\AssemblerApplication10\AssemblerApplication10\main.asm</FILE><LINE>34</LINE></l1>
+ </LABELS>
+</ASSEMBLER_INFO>
